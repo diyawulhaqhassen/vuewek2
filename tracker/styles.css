@@ -1,0 +1,14 @@
+#records {
+    max-height: 250px;
+    overflow: scroll;
+}
+.Painting{
+    background: #e53757;
+}
+.Sketching{
+    background: #b700ff;
+    color: white;
+}
+.Drawing{
+    background: darkcyan;
+}
